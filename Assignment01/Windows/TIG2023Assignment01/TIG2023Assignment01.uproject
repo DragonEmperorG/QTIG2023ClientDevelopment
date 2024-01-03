@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5C2DEADB-40DA-2C9D-5F8B-23B145B1CD40}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TIG2023Assignment01",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
